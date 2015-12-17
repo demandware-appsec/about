@@ -14,7 +14,7 @@ Active Researchers: [Gregg Ganley](https://github.com/gandg),  [Chris Smith](htt
 Use, Feedback, and Improvement
 ==============================
 
-We strongly encourage developers to clone and use our offerings. Once you’ve had a chance to try out, tell us what you think by providing us with feedback on your intended use. This information will enable us to address relevancy and need - which will help to keep our research funded in the long run. Lastly, feel free to enhance and improve the actual controls by submitting pull requests early and often!
+We strongly encourage developers to clone and use our offerings. Once you’ve had a chance to try out, tell us what you think by providing us with feedback.  Feel free to enhance and improve the actual controls by submitting pull requests early and often!
 
 Contributing
 ============
