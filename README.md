@@ -6,7 +6,7 @@ The application security team at Demandware
 This site is provided as a 
 iOS secure application framework research to reduce iOS application vulnerabilities and information loss
 
-![screenshot](https://github.com/demandware-appsec/about/raw/master/dw_logo_DIGITAL-centered.png)
+![screenshot](https://github.com/demandware-appsec/about/raw/master/dw_logo_DIGITAL-centered.png =400x)
 
 Active Researchers: [Gregg Ganley](https://github.com/gandg),  [Chris Smith](https://github.com/tophersmith) and Piyal Biswas.
 
