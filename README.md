@@ -1,14 +1,11 @@
-Demandware - AppSec
+Demandware - Security Engineering
 ======================================
 
 This site is provided as a way to share out common application security libraries and projects that we think would benefit the open source community.
-The application security team at Demandware 
-This site is provided as a 
-iOS secure application framework research to reduce iOS application vulnerabilities and information loss
 
 <img src="https://github.com/demandware-appsec/about/raw/master/dw_logo_DIGITAL-centered.png" height="400">
 
-Active Researchers: [Gregg Ganley](https://github.com/gandg),  [Chris Smith](https://github.com/tophersmith) and Piyal Biswas.
+Active Researchers: [Gregg Ganley](https://github.com/gandg),  [Chris Smith](https://github.com/tophersmith) and [Piyal Biswas](https://github.com/cipherda).
 
 
 Use, Feedback, and Improvement
