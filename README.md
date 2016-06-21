@@ -2,9 +2,6 @@ Demandware - Security Engineering
 ======================================
 [![analytics](http://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-79686240-1&cid=5bc8d9b9-99b3-4646-b434-81d5d4479ff3&dl=https%3A%2F%2Fgithub.com%2Fdemandware-appsec%2Fabout)]()
 
-v=1&t=pageview&tid=UA-79686240-1&cid=5bc8d9b9-99b3-4646-b434-81d5d4479ff3&dl=https%3A%2F%2Fgithub.com%2Fdemandware-appsec%2Fabout
-
-
 This site is provided as a way to share out common application security libraries and projects that we think would benefit the open source community.
 
 <img src="https://github.com/demandware-appsec/about/raw/master/dw_logo_DIGITAL-centered.png" height="400">
